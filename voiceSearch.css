@@ -1,0 +1,8 @@
+
+.microphone {
+    width: 100px;
+    height: 100px;
+    border: 0px;
+    background-size: cover;
+    background-image: url('./images/microphone.png');
+}
